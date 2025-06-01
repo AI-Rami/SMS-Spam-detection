@@ -48,19 +48,6 @@ Tech Stack
 
 ---
 
-How to Run
-
-1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/sms-spam-detector.git
-   cd sms-spam-detector
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Open the notebook:
-   jupyter notebook task_3_Spam_detection.ipynb
-
----
 
 License
 
